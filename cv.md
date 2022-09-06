@@ -3,16 +3,20 @@
 ### Junior Frontend Developer
 ---
 ### Contact information:
+
 Phone: 89000218662
 E-mail: harchevnikov2001@mail.ru
 Telegram: @Byhlyash
 Github: [buhlyash](https://github.com/Buhlyash)
+
 ---
 ### About myself:
+
 Some text about me
 Some text about me
 Some text about me
 Some text about me
+
 ---
 ### Skills and Proficiency
 * HTML5, CSS
