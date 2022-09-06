@@ -4,10 +4,10 @@
 ---
 ### Contact information:
 
-Phone: 89000218662
-E-mail: harchevnikov2001@mail.ru
-Telegram: @Byhlyash
-Github: [buhlyash](https://github.com/Buhlyash)
+Phone: 89000218662 <br>
+E-mail: harchevnikov2001@mail.ru <br>
+Telegram: @Byhlyash <br>
+Github: [buhlyash](https://github.com/Buhlyash) <br>
 
 ---
 ### About myself:
