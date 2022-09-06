@@ -12,7 +12,7 @@ Github: [buhlyash](https://github.com/Buhlyash)
 ---
 ### About myself:
 
-Some text about me
+Some text about me <br>
 Some text about me
 Some text about me
 Some text about me
