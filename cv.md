@@ -29,17 +29,29 @@ my strong sides are  fast learnability, assiduity and responsibility.
 * VS Code
 ---
 ### Code example
-**Peak array index KATA from CODEWARS:**  *Given an array of ints, return the index such that the sum of the elements to the right of that index equals the sum of the elements to the left of that index. If there is no such index, return -1. If there is more than one such index, return the left-most index.*
+**Who likes it? KATA from CODEWARS:**
 ```
-function peak(arr) {
-  for (let i = 1; i < arr.length - 1; i++) {
-    let leftSum = arr.slice(0, i).reduce((accumulator, currentValue) => accumulator + currentValue);
-    let rightSum = arr.slice(i + 1).reduce((accumulator, currentValue) => accumulator + currentValue);
-    if (leftSum === rightSum) {
-      return i;
-    }
+function likes(names) {
+  let arrayCount = names.length;
+  let result = "";
+  switch(arrayCount) {
+      case 0:
+        result = "no one likes this";
+        break;
+      case 1: 
+        result = `${names[0]} likes this`;
+        break;
+      case 2:
+        result = `${names[0]} and ${names[1]} like this`;
+        break;
+      case 3:
+        result = `${names[0]}, ${names[1]} and ${names[2]} like this`;
+        break;
+      default: 
+        result = `${names[0]}, ${names[1]} and ${arrayCount - 2} others like this`;
+        break;
   }
-  return -1;
+  return result;
 }
 ```
 ---
